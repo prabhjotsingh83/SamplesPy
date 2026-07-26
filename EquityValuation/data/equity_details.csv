@@ -1,0 +1,4 @@
+symbol,name,valuation_model,eps,pe_multiple,dividend,required_return,growth_rate,free_cash_flow,discount_rate,terminal_growth_rate,shares_outstanding,net_debt
+AAPL,Apple Inc,pe,6.15,28,,,,,,,,
+MSFT,Microsoft Corp,dcf,,,,,0.05,70000000000,0.09,0.03,7500000000,30000000000
+KO,Coca-Cola Co,ddm,,,1.94,0.08,0.04,,,,,
